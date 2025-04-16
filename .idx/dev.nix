@@ -9,7 +9,7 @@
     pkgs.jdk17
     pkgs.unzip
   ];
-  
+      // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
   # Sets environment variables in the workspace
   env = {};
   idx = {
